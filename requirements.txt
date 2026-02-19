@@ -1,0 +1,8 @@
+
+opencv-python
+dlib
+numpy
+scipy
+imutils
+scikit-learn
+playsound
